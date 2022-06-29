@@ -82,10 +82,10 @@ def divide(a: Union[float, int], b: Union[float, int]) -> float:
     """Compute and return the quotient of two numbers.
 
     Examples:
-    >>> divide(4.0, 2.0)
-    2.0
-    >>> divide(4, 2)
-    2.0
+        >>> divide(4.0, 2.0)
+        2.0
+        >>> divide(4, 2)
+        2.0
 
     Args:
         a: The dividend in the division operation.
